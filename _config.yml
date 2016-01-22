@@ -1,0 +1,28 @@
+name: Cousin-Mayan
+favicon: null
+layout_spectrum: 0.2677810213062912
+typography_spectrum: 0.14879663847386837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8860626211389899
+  lightness: 0.7849433321971446
+  saturation: 0.5036656120792031
+  rhythmicContrast: 0.6365872065071017
+purpose: []
